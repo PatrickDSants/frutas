@@ -1,0 +1,125 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+     height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.texto-cor-especial {
+    color: darkred!important;
+}
+
+.cor-fundo {
+    background-color: rgb(112, 2, 2);
+}
+
+.quem-somos__titulo {
+    margin-bottom: 1rem;
+    color: darkred;
+    font-size: 3.1875rem;
+    font-family: Pacifico, cursive;
+}
+
+.quem-somos {
+    text-align: center;
+    padding: 5rem;
+}
+
+.quem-somos__descricao {
+    font-weight: 100;
+    font-size: 1.75rem;
+    color: dimgray;
+}
+
+.pessoa {
+    display: flex;
+    flex-direction: column;
+}
+
+.pessoa__nome {
+    margin: 1rem 0;
+    font-family: Pacifico, cursive;
+    color: darkred;
+    font-size: 2rem;
+}
+
+.pessoa__funcao {
+    text-transform: lowercase;
+    color: dimgray;
+    font-size: 1.25rem;
+}
+
+.pessoas {
+    display: flex;
+    padding-top: 3rem;
+    justify-content: space-around;
+}
+
+.pessoa__imagem {
+    background-size: cover;
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.pessoa__imagem--roberta {
+    background-image: url('../../projeto-base/src/img/quemsomos-roberta.jpg');
+}
+
+.pessoa__imagem--marcela {
+    background-image: url('../../projeto-base/src/img/quemsomos-marcela.jpg');
+}
+
+.pessoa__imagem--andreia {
+    background-image: url('../../projeto-base/src/img/quemsomos-andreia.jpg');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

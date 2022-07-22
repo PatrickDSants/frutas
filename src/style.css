@@ -96,15 +96,15 @@
 }
 
 .pessoa__imagem--roberta {
-    background-image: url('../../projeto-base/src/img/quemsomos-roberta.jpg');
+    background-image: url('./img/quemsomos-roberta.jpg');
 }
 
 .pessoa__imagem--marcela {
-    background-image: url('../../projeto-base/src/img/quemsomos-marcela.jpg');
+    background-image: url('./img/quemsomos-marcela.jpg');
 }
 
 .pessoa__imagem--andreia {
-    background-image: url('../../projeto-base/src/img/quemsomos-andreia.jpg');
+    background-image: url('./img/quemsomos-andreia.jpg');
 }
 
 

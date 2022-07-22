@@ -1,0 +1,14 @@
+{
+  "name": "frutafruto-treino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PatrickDSants/frutafruto-treino.git",
+  "author": "Guilhermo Hounie <hounie.guilhermo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
